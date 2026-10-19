@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+nlp
+matplotlib
+scikit-learn
+jupyter
+nltk
+tensorflow==2.15.0
+tensorboard
+steamlit
